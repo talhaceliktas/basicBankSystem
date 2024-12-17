@@ -11,6 +11,24 @@
 
 using namespace std;
 
+/*
+    Copyright © 2024 whayyyy
+
+    This code is the intellectual property of why!.
+    Unauthorized copying, modification, or distribution of this code,
+    via any medium, is strictly prohibited. All rights reserved.
+
+    Created in 2024 by whayyyy
+    For inquiries, please contact: [avrol928@gmail.com]
+
+    ---------------------------------------------------------------
+    Permission may be granted to use this code for educational or
+    personal purposes, provided proper credit is given.
+    ---------------------------------------------------------------
+*/
+
+
+
 bool tcKontrol = 1;
 bool hesapNoKontrol = 1;
 
