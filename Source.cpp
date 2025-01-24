@@ -12,7 +12,7 @@
 using namespace std;
 
 /*
-    Copyright © 2024 whayyyy
+    Copyright © 2024 sleepwhy
 
     This code is the intellectual property of why!.
     Unauthorized copying, modification, or distribution of this code,
