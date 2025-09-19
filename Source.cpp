@@ -14,11 +14,11 @@ using namespace std;
 /*
     Copyright © 2024 sleepwhy
 
-    This code is the intellectual property of why!.
+    This code is the intellectual property of talhaceliktas!.
     Unauthorized copying, modification, or distribution of this code,
     via any medium, is strictly prohibited. All rights reserved.
 
-    Created in 2024 by whayyyy
+    Created in 2024 by talhaceliktas
     For inquiries, please contact: [avrol928@gmail.com]
 
     ---------------------------------------------------------------
